@@ -17,7 +17,7 @@ const TraccarDesign = () => {
           <HomeForm />
         </View>
         <View style={styles.contentView}>
-          <Text style={styles.textFont1}>Powered by : </Text>
+          <Text style={styles.textFont1}>Powered by</Text>
           <Image source={spurtree} />
         </View>
       </ImageBackground>
